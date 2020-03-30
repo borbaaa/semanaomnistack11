@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\borba\\Documents\\RocketSeat\\Aulas\\JavaScript ES6"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Dracula",
+		"terminal.integrated.fontSize": 14,
+		"workbench.iconTheme": "material-icon-theme"
+	}
+}
